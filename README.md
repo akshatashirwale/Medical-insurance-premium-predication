@@ -18,25 +18,28 @@ This tool is useful for understanding how lifestyle and demographic factors infl
 -----
 🧠 Model
 
-*Algorithm: Linear Regression 
-*Performance: High accuracy on test dataset
-*Training Data: Trained on the popular medical insurance cost dataset with relevant features
+- **Algorithm**: Linear Regression  
+- **Performance**: High accuracy on test dataset  
+- **Training Data**: Trained on the popular medical insurance cost dataset with relevant features  
 
 ---
 ⚙️ Tech Stack
 
- Python
- Streamlit
- Scikit-learn
- NumPy
- 
+- 🐍 Python  
+- 🌐 Streamlit  
+- 📊 Scikit-learn  
+- ➗ NumPy  
+
 -----
 
 📁 Files
 
-*app.py: Main Streamlit app
-*insurance_model.pkl: Trained model
-*requirements.txt: Python dependencies
+| 📄 File Name          | 📝 Description                 |
+| --------------------- | ------------------------------ |
+| `app.py`              | Main Streamlit app             |
+| `insurance_model.pkl` | Trained machine learning model |
+| `requirements.txt`    | Python dependencies            |
+
 
 ----
 🌐 App Link
