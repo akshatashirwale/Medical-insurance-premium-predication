@@ -1,10 +1,8 @@
 # 🛡️Insurance Prediction App
 
-The Insurance Charges Prediction App estimates medical insurance costs for individuals based on their personal and lifestyle information. By entering details such as age, BMI, number of children, sex, smoking status, and residential region, users receive an approximate prediction of potential medical insurance charges.
-
-This tool is especially useful for understanding how demographic and lifestyle factors influence insurance pricing — helping users make informed health and financial decisions.
-
-A machine learning-powered web application built using Streamlit and a Linear Regression model, this app provides real-time predictions to assist researchers, students, and insurance analysts in understanding the key drivers of insurance costs.
+- The Insurance Charges Prediction App estimates medical insurance costs for individuals based on their personal and lifestyle information. By entering details such as age, BMI, number of children, sex, smoking status, and residential region, users receive an approximate prediction of potential medical insurance charges.
+- This tool is especially useful for understanding how demographic and lifestyle factors influence insurance pricing, helping users make informed health and financial decisions.
+- A machine learning-powered web application built using Streamlit and a Linear Regression model, this app provides real-time predictions to assist researchers, students, and insurance analysts in understanding the key drivers of insurance costs.
   
 ---
 🚀 Features
